@@ -66,8 +66,9 @@ git clone https://github.com/GJunior17CRVG/2048Retro.git
 ````
 
 🕹️ **Execute localmente ou acesse o site aonde o jogo esta hospedado:**
+
 Basta abrir o arquivo `index.html` no navegador!
-Site:
+Site:https://2048-retro.vercel.app/
 
 
 - Criado por **Gildásio Junior**  
