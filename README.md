@@ -62,7 +62,7 @@ Durante o desenvolvimento deste projeto, exercitei:
 
 💾 **Clone o repositório:**
 ```bash
-git clone https://github.com/seuusuario/2048-retro-neon.git
+git clone https://github.com/GJunior17CRVG/2048Retro.git
 ````
 
 🕹️ **Execute localmente ou acesse o site aonde o jogo esta hospedado:**
